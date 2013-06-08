@@ -117,6 +117,8 @@ Some projects that use this task are as follows. You can take a look at their Gr
 * [This project](https://github.com/axemclion/grunt-saucelabs/blob/master/Gruntfile.js)
 * [Jquery-IndexedDB](https://github.com/axemclion/jquery-indexeddb/blob/master/GruntFile.js)
 * [IndexedDBShim](https://github.com/axemclion/IndexedDBShim/blob/master/Gruntfile.js)
+* [PouchdB](https://github.com/daleharvey/pouchdb/blob/master/Gruntfile.js)
+* [Communist](https://github.com/calvinmetcalf/communist/blob/master/Gruntfile.js)
 
 If you have a project that uses this plugin, please add it to this list and send a pull request. 
 
